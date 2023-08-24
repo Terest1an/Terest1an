@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Andrey Mihaliov</h1>
 <h3 align="center">BeGeek student from Russia</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terest1an)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terest1an)](https://github.com/Terest1an/github-readme-stats)
 
 
 <!--
