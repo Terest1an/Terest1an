@@ -1,12 +1,10 @@
-<h1 align="center">Hi there, I'm Andrey Mihaliov</h1>
-<h3 align="center">BeGeek student from Russia</h3>
-__
-```c#
-Console.WriteLine("Hello world!");
-```
+# Hi there, I'm Andrey Mihaliov
+## BeGeek student from Russia
+_________________
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terest1an)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![CatLogo](https://bestmemes.ucoz.net/_nw/27/54821435.jpg)
 
 <!--
 **Terest1an/Terest1an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
