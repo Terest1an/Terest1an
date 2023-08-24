@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Andrey Mihaliov</h1>
 <h3 align="center">BeGeek student from Russia</h3>
-_____
+__
 ```c#
 Console.WriteLine("Hello world!");
 ```
