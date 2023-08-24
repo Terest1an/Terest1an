@@ -4,7 +4,7 @@ _________________
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terest1an)](https://github.com/anuraghazra/github-readme-stats)
 
-![CatLogo](https://bestmemes.ucoz.net/_nw/27/54821435.jpg)
+![CatLogo](https://memepedia.ru/wp-content/uploads/2017/08/%D0%BC%D0%B5%D0%BC-%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5-1.jpg)
 
 <!--
 **Terest1an/Terest1an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
