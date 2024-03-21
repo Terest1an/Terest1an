@@ -1,5 +1,4 @@
 # Hi there, I'm Andrey Mihaliov
-## BeGeek student from Russia
 _________________
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terest1an)](https://github.com/anuraghazra/github-readme-stats)
